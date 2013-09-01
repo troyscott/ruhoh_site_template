@@ -1,6 +1,12 @@
 ---
-title : About Me
-description:
+title: About Me
+description: null
+published: true
 ---
 
-All about me =)
+## My Profile
+
+Write _something_ about yourself here.
+
+
+
