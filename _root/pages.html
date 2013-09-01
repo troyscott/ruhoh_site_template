@@ -1,9 +1,19 @@
 ---
 description:
 ---
-
+<h3>Root Pages  </h3>
+<h5>Pages located at _root</h5>
 <ul>
 {{# _root.all }}
   {{> pages_list }}
 {{/ _root.all }}
+</ul>
+
+
+<h3>Essays (new folder: essays) </h3>
+<h5>New page collection added (ruhoh essays new ...)</h5>
+<ul>
+{{# essays.all }}
+  {{> pages_list }}
+{{/ essays.all }}
 </ul>

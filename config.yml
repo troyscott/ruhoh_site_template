@@ -27,7 +27,7 @@ twitter :
 _root:
   summary_lines: 20
   rss:
-    enable: false
+    enable: true
   paginator:
     enable: false
 
